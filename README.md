@@ -1,4 +1,4 @@
-# Hi there, I'm Saad 👋
+# Hi there, I'm Daud Ahmad 👋
 
 # Bootcamp alert
 - [Data Structures and Algorithms Bootcamp](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) is going on.
@@ -130,11 +130,11 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.saad-hassan.com"><img src="https://img.shields.io/badge/-saadhassan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/saad-haxxan"><img src="https://img.shields.io/badge/-Saad%20Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@saad-hassan.com"><img src="https://img.shields.io/badge/-contact@saadhassan.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/saadhaxxan"><img src="https://img.shields.io/badge/-@saadhaxxan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/saaadhaxxan"><img src="https://img.shields.io/badge/-@saaadhaxxan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.daudahmad.com"><img src="https://img.shields.io/badge/-daudahmad.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/daudahmad0303"><img src="https://img.shields.io/badge/-Daud%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:daudahmad0303@gmail.com"><img src="https://img.shields.io/badge/-daudahmad0303@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/daudahmad0303"><img src="https://img.shields.io/badge/-@daudahmad0303-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/daudahmad0303"><img src="https://img.shields.io/badge/-@daudahmad0303-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ## Some Community Projects
 
@@ -161,10 +161,10 @@
 
 <p align="center">
 <a href="https://github.com/saadhaxxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadhaxxan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadhaxxan&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaudAhmad0303&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaudAhmad0303&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadhaxxan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaudAhmad0303&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
@@ -178,5 +178,5 @@
 
 # Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/saadhaxxan/saadhaxxan/blob/master/github-metrics.svg" />
+	<img width="625em" src="https://github.com/DaudAhmad0303/saadhaxxan/blob/master/github-metrics.svg" />
 </p>
